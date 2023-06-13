@@ -45,12 +45,12 @@
 //     console.log(number)
 // }
 
-// while loop
-let numbers =0
-while(numbers <1000){
-numbers = numbers+1
-console.log(numbers)
-}
+// // while loop
+// let numbers =0
+// while(numbers <1000){
+// numbers = numbers+1
+// console.log(numbers)
+// }
 
 // let num1=40
 // let num2=120
